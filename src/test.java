@@ -8,5 +8,8 @@ public class test {
         std1.classNo = "g2";
         std1.dept="cse";
         System.out.println(std1.name); 
+        System.out.println(std1.classNo);
+        System.out.println(std1.dept);
+        System.out.println(std1.id);
     }
 }
