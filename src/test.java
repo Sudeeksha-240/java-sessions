@@ -23,7 +23,7 @@ public class test {
        // student s3 =  std1;
        // s3.name = "Deeksha";
         System.out.println(std1.name);
-        System.out.println(s2.name);
+        System.out.println(s2.toString());
         //System.out.println(s3.name);
 
 
