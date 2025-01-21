@@ -6,7 +6,6 @@ public class leetcode88 {
         // Create a temporary array to store merged result
         int[] arr = new int[m + n];
         
-        // Merge both arrays while there are elements in both
         while (p1 < m && p2 < n) {
             if (nums1[p1] <= nums2[p2]) {
                 arr[p3++] = nums1[p1++];
