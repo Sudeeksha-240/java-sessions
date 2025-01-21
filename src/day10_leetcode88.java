@@ -1,4 +1,4 @@
-public class leetcode88 {
+public class day10_leetcode88 {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         // Initialize the pointers
         int p1 = 0, p2 = 0, p3 = 0;
